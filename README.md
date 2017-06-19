@@ -1,5 +1,7 @@
 # eslint-plugin-chai-friendly
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/eslint-plugin-chai-friendly) [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/eslint-plugin-chai-friendly)
+
 This plugin overrides `no-unused-expressions` to make it friendly towards chai expect statements.
 
 ```javascript
